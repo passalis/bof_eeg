@@ -17,7 +17,7 @@ If you use this code in your work please cite the following paper:
 <pre>
 @inproceedings{neural-bof-eeg,
         title       = "Time-series Classification Using Neural Bag-of-Features",
-	author      = "Nikolaos Passalis and Anastasios Tefas",
+	author      = "Nikolaos Passalis and Avraam Tsantekidis and Anastasios Tefas and Juho Kanniainen and Moncef Gabbouj and Alexandros Iosifidis",
 	booktitle   = "Proceedings of the European Signal Processing Conference",
 	pages       = "TBA",
 	year        = "2017"
