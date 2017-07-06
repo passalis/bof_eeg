@@ -10,7 +10,7 @@ The supplied code evaluates the following models:
 | MLP           | 73.2 % |
 | GRU           | 76.2 % |
 | BoF           | 67.3 % |
-| Neural BoF    | 86.7 % |
+| Neural BoF    | **86.7 %** |
 
 If you use this code in your work please cite the following paper:
 
