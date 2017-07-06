@@ -3,7 +3,7 @@ Using Bag-of-Features(BoF) to classify EEG time-series data
 
 This repository demonstrates how to use the [Neural BoF model ](https://github.com/passalis/neural-bof) to classify time-series data. In contrast to other well-known models tailored for time-series classification, the BoF model discards most of the spatial information contained in the time-series. This can be especially advantageous when we want to detect certain features in a time-series (e.g., EEG, ECG, etc).
 
-The supplied code evaluates the following model:
+The supplied code evaluates the following models:
 
 | Model         | Accuracy |
 | ------------- | ------------- |
