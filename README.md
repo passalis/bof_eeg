@@ -25,4 +25,4 @@ If you use this code in your work please cite the following paper:
 </pre>
 
 
-Also, check my [website](http://users.auth.gr/passalis) for more projects and stuff!
+Also, check my [website](https://passalis.github.io) for more projects and stuff!
